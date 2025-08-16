@@ -133,7 +133,3 @@ model: 'llama3-8b-8192', // Change to other Groq models
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-MIT License
